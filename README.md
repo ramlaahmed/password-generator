@@ -16,7 +16,7 @@ This is a screenshot of the password generated
 
 ![passwordgenerator](./assets/images/screencapture-127-0-0-1-5501-assets-index-html-2022-07-25-21_37_01.png)
 
-## Link
+## Links
 
-https://ramlaahmed.github.io/JavaScript/
-https://github.com/ramlaahmed/JavaScript
+https://ramlaahmed.github.io/password-generator/
+https://github.com/ramlaahmed/password-generator
